@@ -1,27 +1,2 @@
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://raw.githubusercontent.com/arduino/Arduino/master/build/shared/arduino-logo.svg" alt="arduino" width="40" height="40"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.gnu.org/graphics/heckert_gnu.svg" alt="bash" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/git/git-scm.com/master/public/images/logos/2color-light-bg.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.linuxfoundation.org/" target="_blank">
-  <img src="https://www.linuxfoundation.org/wp-content/uploads/tux.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://www.python.org/static/community_logos/python-logo.svg" alt="python" width="40" height="40"/>
-</a>
+Jack of all trades master of none. I don't use AI generated code (yet.)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
